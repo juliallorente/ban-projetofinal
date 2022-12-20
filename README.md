@@ -1,8 +1,5 @@
-<p align="center">
-  <strong>
-    # Trabalho Final de Banco de Dados 1 
-  </strong>
-</p>
+<h1 align="center">Trabalho Final: Banco de Dados 1</h1>
+
 ## :rocket: **Funcionalidades do projeto?**
 
 - ``Adicionar pedido``
