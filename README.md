@@ -1,6 +1,7 @@
 # Trabalho Final de Banco de Dados 1
 
 ## 🔨 Funcionalidades do projeto
+
 - ``Adicionar pedido``
 - ``Adicionar pizza````
 - ``Adicionar bebida``
