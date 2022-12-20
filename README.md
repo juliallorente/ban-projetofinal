@@ -1,6 +1,6 @@
-# Trabalho Final de Banco de Dados 1
+## :triangular_flag_on_post: Trabalho Final de Banco de Dados 1 :triangular_flag_on_post:
 
-## :blush: **Funcionalidades do projeto?**
+## :rocket: **Funcionalidades do projeto?**
 
 - ``Adicionar pedido``
 - ``Adicionar pizza``
