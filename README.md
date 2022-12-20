@@ -13,3 +13,8 @@ Funcões:
         System.out.println("09 - Listar todos os pedidos que contem bebidas");
         System.out.println("10 - Listar todos os pedidos que contem pizzas");
         System.out.println("11 - Listar o(s) pedido(os) com a data mais recente");
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Java 8``
+- ``VsCode``
+- ``Paradigma de orientação a objetos``
