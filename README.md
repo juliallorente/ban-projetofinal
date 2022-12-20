@@ -13,8 +13,9 @@
 - ``Listar todos os pedidos que contem bebidas``
 - ``Listar todos os pedidos que contem pizzas``
 - ``Listar o(s) pedido(os) com a data mais recente``
-## ✔️ Técnicas e tecnologias utilizadas
 
+
+## :dizzy: **Técnicas e tecnologias utilizadas**
 - ``Java 8``
 - ``VsCode``
 - ``PostgreSQL``
