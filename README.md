@@ -17,4 +17,6 @@
 
 - ``Java 8``
 - ``VsCode``
+- ``PostgreSQL``
+- ``PgAdmin``
 - ``Paradigma de orientação a objetos``
