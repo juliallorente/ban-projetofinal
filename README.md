@@ -3,7 +3,7 @@
 ## 🔨 Funcionalidades do projeto
 
 - ``Adicionar pedido``
-- ``Adicionar pizza````
+- ``Adicionar pizza``
 - ``Adicionar bebida``
 - ``Listar todos os pedidos``
 - ``Listar todas as pizzas``
