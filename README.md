@@ -1,6 +1,6 @@
 # Trabalho Final de Banco de Dados 1
 
-## 🔨 Funcionalidades do projeto
+## :blush: **Funcionalidades do projeto?**
 
 - ``Adicionar pedido``
 - ``Adicionar pizza``
